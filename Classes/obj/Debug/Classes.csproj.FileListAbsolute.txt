@@ -1,0 +1,7 @@
+c:\users\shahe\source\repos\Classes\Classes\bin\Debug\Classes.exe.config
+c:\users\shahe\source\repos\Classes\Classes\bin\Debug\Classes.exe
+c:\users\shahe\source\repos\Classes\Classes\bin\Debug\Classes.pdb
+c:\users\shahe\source\repos\Classes\Classes\obj\Debug\Classes.csprojAssemblyReference.cache
+c:\users\shahe\source\repos\Classes\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+c:\users\shahe\source\repos\Classes\Classes\obj\Debug\Classes.exe
+c:\users\shahe\source\repos\Classes\Classes\obj\Debug\Classes.pdb
